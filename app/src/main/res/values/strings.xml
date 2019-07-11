@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SharedPreferences</string>
+    <string name="my_pref">elitePref</string>
+    <string name="val_pref">itemPref</string>
 </resources>
